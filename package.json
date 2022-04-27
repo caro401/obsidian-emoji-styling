@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-emoji-styling",
-	"version": "0.9.0",
+	"version": "0.9.1",
 	"description": "Plugin to wrap all emoji in span with specific class, to allow theme developers to style emoji in reader mode.",
 	"main": "main.js",
 	"scripts": {
