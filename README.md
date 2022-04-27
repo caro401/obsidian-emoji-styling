@@ -36,7 +36,7 @@ To achieve the same effect in **edit mode**, use the [Dynamic Highlights](https:
 
 ### Manually installing the plugin
 
-- Copy over `main.js`, `styles.css`, `manifest.json` to your vault `VaultFolder/.obsidian/plugins/your-plugin-id/`.
+- Copy over `main.js`, and `manifest.json` from a [release](https://github.com/caro401/obsidian-emoji-styling/releases/) to your vault `VaultFolder/.obsidian/plugins/obsidian-emoji-styling/`.
 
 ### Technical stuff
 
